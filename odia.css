@@ -1,0 +1,123 @@
+body {
+  background-image: url("https://media.giphy.com/media/Qvp6Z2fidQR34IcwQ5/giphy.gif");
+
+  background-size: cover;
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", "cursive";
+  text-shadow: 3px 0 #DA0463;
+
+}
+.rightside img{
+  height:400px;
+  width:35%;
+  margin-left: 25%;
+  margin-top: -650px;
+}
+
+footer {
+  color: #DBEDF3;
+
+  font-family: sans-serif;
+  margin-top: 1rem;
+}
+
+.wajah {
+background-image: url("https://a10.gaanacdn.com/images/albums/86/1526786/crop_480x480_1526786.jpg");
+background-size:cover;
+}
+
+.kabhi {
+background-image: url("https://d37atgyntjgeo4.cloudfront.net/images/detailed/31/Hate-Story-2-Kabhi-Aayine-Pe-Likha-Tujhe_gjcg-d6.jpg?t=1404988276");
+background-size: cover;
+}
+
+.cmyn {
+background-image: url("https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg");
+background-size:cover;
+}
+
+.ekdin{
+background-image: url("https://s1.dmcdn.net/v/CodG-1McbGKgHe181/x1080");
+background-size:cover;
+}
+
+.haledil {
+background-image: url("https://i.pinimg.com/originals/36/7b/4d/367b4d03cd1e4d6ff80b7ce8228b3c72.jpg");
+background-size: cover;
+}
+
+.butterfly {
+background-image: url("https://1.bp.blogspot.com/-EUvgSDLTX6U/X1yJ9WIONjI/AAAAAAAABGg/h3moWPgSfj0cvBbGSpnk4y6X6AYL1A_kACLcBGAsYHQ/s1600/Butterfly-Lyrics-Jass-Manak-No-Competition.jpg");
+background-size: cover;
+}
+
+.tumhiho {
+background-image: url("https://lh3.googleusercontent.com/-vqRXyU5HwYc/VTRutSdx5VI/AAAAAAAAACE/BOMQQWq24dQ/Tum-Hi-Ho-lyrics-from-Aashiqui-2.jpg");
+background-size: cover;
+}
+
+.burj {
+  background-image: url("https://www.bollywoodbubble.com/wp-content/uploads/2020/10/Burj-Khalifa-Akshay-Kumar-Kiara-Advani-2-1280x720.jpg");
+  background-size: cover;
+}
+
+.laapata{
+  background-image: url("https://a10.gaanacdn.com/gn_img/albums/2lV3dl13Rg/lV3dJ5P5bR/size_xxl.webp");
+  background-size: cover;
+}
+.set {
+  width: 35%;
+  position: relative;
+  text-align: left;
+  margin-left: 6%;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #350b40;
+  font-size:1px;
+  font-family: 'Arvo', 'cursive';
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+
+@media (max-width:1028px){
+  .drum{
+    height:200px;
+    width:200px;
+    margin: 40px;
+
+  }
+
+}
